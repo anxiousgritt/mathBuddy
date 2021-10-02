@@ -3,8 +3,9 @@ This is a little project for you to use to make your computations easier and mor
 
 ### Contribtions
 - All sorts of contributions are welcome!
+- Just read the contrubutions guide and hop in
 
 ## Tech stack
-- Vanilla JavaScript
+- Vanilla Javascript
 - Vanilla CSS
 - HTML
